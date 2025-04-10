@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E MUNDO HD">
+    <display-name lang="es">A&amp;E MUNDO HD</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="es">AMC</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="ANIMAL PLANET">
+    <display-name lang="es">ANIMAL PLANET</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="es">AXN HD</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="CINECANAL">
+    <display-name lang="es">CINECANAL</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="CINECANAL HD">
+    <display-name lang="es">CINECANAL HD</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="CINEMAX">
+    <display-name lang="es">CINEMAX</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="CNN EN ESPAÑOL">
+    <display-name lang="es">CNN EN ESPAÑOL</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="CONEXIÓN EDUCATIVA">
+    <display-name lang="es">CONEXIÓN EDUCATIVA</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="DESTINOS TV">
+    <display-name lang="es">DESTINOS TV</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="DISCOVERY">
+    <display-name lang="es">DISCOVERY</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="DISCOVERY CIVILIZATION">
+    <display-name lang="es">DISCOVERY CIVILIZATION</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="DISCOVERY ID">
+    <display-name lang="es">DISCOVERY ID</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="DISCOVERY ID HD">
+    <display-name lang="es">DISCOVERY ID HD</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="DISCOVERY KIDS">
+    <display-name lang="es">DISCOVERY KIDS</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="DISCOVERY SCIENCE">
+    <display-name lang="es">DISCOVERY SCIENCE</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="DISCOVERY THEATER HD">
+    <display-name lang="es">DISCOVERY THEATER HD</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="DISCOVERY TURBO">
+    <display-name lang="es">DISCOVERY TURBO</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="DISCOVERY WORLD HD">
+    <display-name lang="es">DISCOVERY WORLD HD</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="DISNEY">
+    <display-name lang="es">DISNEY</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="DISNEY HD">
+    <display-name lang="es">DISNEY HD</display-name>
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="DISNEY JR.">
+    <display-name lang="es">DISNEY JR.</display-name>
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="DISNEY XD">
+    <display-name lang="es">DISNEY XD</display-name>
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="EL GARAGE">
+    <display-name lang="es">EL GARAGE</display-name>
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="EL GOURMET.COM">
+    <display-name lang="es">EL GOURMET.COM</display-name>
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="es">HBO</display-name>
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="es">HBO 2</display-name>
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="HBO FAMILY">
+    <display-name lang="es">HBO FAMILY</display-name>
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="HBO PLUS">
+    <display-name lang="es">HBO PLUS</display-name>
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="HISTORY">
+    <display-name lang="es">HISTORY</display-name>
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="HISTORY HD">
+    <display-name lang="es">HISTORY HD</display-name>
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC">
+    <display-name lang="es">NATIONAL GEOGRAPHIC</display-name>
+    <url>http://www.avcsa.com.ar</url>
+  </channel>
+</tv>
